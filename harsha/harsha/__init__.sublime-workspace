@@ -1,0 +1,312 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"servlet-name"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"Http",
+				"HttpServletResponse"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"MODE",
+				"MODEL_FILE"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Sunny/Desktop/harsha/harsha/settings.py",
+		"/C/Users/Sunny/Desktop/harsha/harsha/urls.py",
+		"/C/ProgramData/MySQL/MySQL Server 8.0/installer_config.xml",
+		"/D/mysql-8.0.11-winx64/mysql-test/README",
+		"/C/Users/Sunny/Desktop/sunny/manage.py",
+		"/C/Users/Sunny/Desktop/sunny/sunny/settings.py",
+		"/C/ProgramData/MySQL/MySQL Installer for Windows/settings-Community.xml",
+		"/C/ProgramData/MySQL/MySQL Installer for Windows/ManifestUpdates.xml",
+		"/C/sql/mysql-8.0.11-winx64/README",
+		"/C/Users/Sunny/Desktop/sunny/test_app/views.py",
+		"/C/Users/Sunny/Desktop/sunny/test_app/admin.py",
+		"/C/Users/Sunny/Desktop/sunny/test_app/apps.py",
+		"/C/Users/Sunny/Desktop/sunny/test_app/models.py",
+		"/C/Users/Sunny/Desktop/startbootstrap-agency-gh-pages/index.html",
+		"/C/Users/Sunny/Desktop/first/first.html",
+		"/C/Users/Sunny/Desktop/first/register.html",
+		"/C/Users/Sunny/Desktop/smsniff.cfg",
+		"/C/Users/Sunny/AppData/Local/Temp/Rar$DIa0.069/readme.txt",
+		"/C/Users/Sunny/Desktop/first/tables.html",
+		"/C/Users/Sunny/AppData/Local/Temp/Rar$DIa0.921/setup.py",
+		"/C/Users/Sunny/Downloads/Compressed/Student-Management-ANDROID/Student Management ANDROID/AndroidStudentMgt/import-summary.txt",
+		"/C/Users/Sunny/Desktop/.idea/workspace.xml",
+		"/C/Users/Sunny/Desktop/.idea/modules.xml",
+		"/C/Users/Sunny/Downloads/Typing Master Pro v7.1.0 Build 808 with Key @ Only Upload Mughal/Key.txt",
+		"/C/Users/Sunny/Downloads/Typing Master Pro v7.1.0 Build 808 with Key @ Only Upload Mughal/ReadMe!.txt",
+		"/C/Users/Sunny/Documents/Papers/2015-DICTA-VehiclesGrouping-code/README.txt",
+		"/C/Users/Sunny/Documents/Papers/2015-DICTA-VehiclesGrouping-code/tools/generateWork.py",
+		"/C/Users/Sunny/Documents/models/research/autoencoder/AutoencoderRunner.py",
+		"/C/Users/Sunny/Documents/src/TrackingApp/CMakeLists.txt",
+		"/C/Users/Sunny/Documents/Untitled Folder 1/Untitled.ipynb",
+		"/C/Users/Sunny/Documents/Papers/2015-DICTA-VehiclesGrouping-code/config.py",
+		"/C/Users/Sunny/Documents/models/research/audioset/vggish_input.py",
+		"/C/Users/Sunny/Downloads/Movavi Video Editor Plus 14.1.0 + Crack [CracksNow]/readme.txt",
+		"/D/pendiii/New folder/traffic.py",
+		"/C/Users/Sunny/Downloads/[nextorrent.net] Freemake_Video_Converter_v4.1.9.83 - Keys Gold/Serial.txt",
+		"/D/Data/generator/batch.py",
+		"/D/Data/generator/README.en.txt",
+		"/D/Techgig/CloudComputing.txt",
+		"/C/Users/Sunny/Downloads/object_detection_tutorial.ipynb",
+		"/C/Users/Sunny/AppData/Local/Temp/Rar$DIa0.115/countingInAndOutTraffic.py",
+		"/C/Users/Sunny/Desktop/mroads.txt",
+		"/C/apache-tomcat-9.0.7/webapps/first/first.html",
+		"/C/apache-tomcat-9.0.7/webapps/first/first.jsp",
+		"/C/Users/Sunny/Downloads/watching.html",
+		"/C/Users/Sunny/Desktop/ledController.py",
+		"/C/apache-tomcat-9.0.7/webapps/first/WEB-INF/web.xml",
+		"/C/Users/Sunny/Desktop/sample.py",
+		"/C/Users/Sunny/Downloads/credentials (1).json",
+		"/F/1234/meat.txt",
+		"/D/Techgig/AI, Blockchain, Mobility, IoT, whatever your under.txt",
+		"/D/Techgig/BigData.txt",
+		"/D/Techgig/IOT.txt",
+		"/D/Techgig/Ecommerce.txt",
+		"/D/Techgig/ML.txt",
+		"/D/Techgig/AI.txt",
+		"/D/Techgig/Amazon Alexa.txt",
+		"/D/Techgig/blockchain.txt",
+		"/C/apache-tomcat-9.0.7/webapps/first/WEB-INF/classes/LoginServlet.java",
+		"/C/apache-tomcat-9.0.7/webapps/login/WEB-INF/classes/LoginServlet.java",
+		"/C/apache-tomcat-9.0.7/webapps/login/login.html",
+		"/C/apache-tomcat-9.0.7/conf/server.xml",
+		"/C/apache-tomcat-9.0.7/webapps/login/WEB-INF/web.xml",
+		"/C/apache-tomcat-9.0.7/webapps/login/login.jsp",
+		"/C/apache-tomcat-9.0.7/webapps/First/WEB-INF/classes/LoginServelet.java",
+		"/C/apache-tomcat-9.0.7/webapps/First/first1.jsp",
+		"/C/apache-tomcat-9.0.7/webapps/First/WEB-INF/web.xml",
+		"/C/apache-tomcat-9.0.7/webapps/First/WEB-INF/classes/loginServelet.java",
+		"/C/apache-tomcat-9.0.7/webapps/First/WEB-INF/classes/First.java",
+		"/C/apache-tomcat-9.0.7/webapps/First/WEB-INF/classes/Test.java",
+		"/C/apache-tomcat-9.0.7/webapps/First/WEB-INF/classes/test.java",
+		"/C/apache-tomcat-9.0.7/webapps/First/WEB-INF/classes/loginServlet.java",
+		"/C/apache-tomcat-9.0.7/webapps/First/first.html",
+		"/C/tomcat-9.0.7/conf/server.xml",
+		"/C/tomcat-9.0.7/webapps/ROOT/WEB-INF/web.xml",
+		"/C/tomcat-9.0.7/conf/web.xml",
+		"/C/tomcat-9.0.7/conf/context.xml",
+		"/C/apache-tomcat-9.0.7/webapps/First/first.jsp",
+		"/C/apache-tomcat-9.0.7/conf/web.xml",
+		"/C/apache-tomcat-9.0.7/conf/context.xml",
+		"/C/Users/Sunny/Desktop/Malli/New Text Document.txt",
+		"/C/Users/Sunny/Desktop/Ultrasonic_Sensor.txt",
+		"/D/apache-tomcat-9.0.7/RUNNING.txt",
+		"/C/Users/Sunny/AppData/Local/Temp/Rar$DIa0.713/gpl.txt",
+		"/D/Dark/darknet/examples/darknet.c",
+		"/D/Dark/darknet/examples/yolo.c",
+		"/C/Users/Sunny/Documents/tensorflow-for-poets-2 - Copy (2)/tf_files/retrained_labels.txt",
+		"/C/Users/Sunny/Documents/darkflow-master/cfg/yolov3.cfg",
+		"/C/Users/Sunny/Documents/tensorflow-for-poets-2 - Copy/scripts/label_image.py",
+		"/C/Users/Sunny/Documents/tensorflow-for-poets-2 - Copy/traffic.py",
+		"/C/Users/Sunny/Documents/tensorflow-for-poets-2 - Copy/pipeline.py",
+		"/D/pyAudioAnalysis/audioFeatureExtraction.py",
+		"/C/Users/Sunny/Documents/tensorflow-for-poets-2/tf_files/retrained_labels.txt",
+		"/D/Camera2/pipeline.py",
+		"/C/Users/Sunny/Documents/GitHub/devicehive-audio-analysis/requirements.txt",
+		"/D/pyAudioAnalysis/audioAnalysis.py",
+		"/C/Users/Sunny/Desktop/rasp.py",
+		"/C/Users/Sunny/Documents/GitHub/devicehive-audio-analysis/capture.py",
+		"/C/Users/Sunny/Documents/GitHub/youtube-8m/train.py",
+		"/C/Users/Sunny/Documents/darkflow-master/cfg/tiny-yolo-voc-5c.cfg",
+		"/C/Users/Sunny/Documents/darkflow-master/labels.txt",
+		"/C/Users/Sunny/Documents/tensorflow-for-poets-2/tf_files/bottlenecks/bicycle/2008_000191.jpg_mobilenet_0.50_224.txt",
+		"/C/Users/Sunny/Documents/Final Counting/pipeline.py",
+		"/C/Users/Sunny/Documents/VOCtrainval_11-May-2012 (1)/VOCdevkit/VOC2012/JPEGImages/bus.txt",
+		"/C/Users/Sunny/Documents/VOCtrainval_11-May-2012 (1)/VOCdevkit/VOC2012/JPEGImages/person.txt",
+		"/C/Users/Sunny/Documents/VOCtrainval_11-May-2012 (1)/VOCdevkit/VOC2012/JPEGImages/Annotations/get_annotaions.py",
+		"/C/Users/Sunny/Documents/Final Counting/classify.py",
+		"/C/Users/Sunny/Documents/VOCtrainval_11-May-2012 (1)/VOCdevkit/VOC2012/JPEGImages/copy.py",
+		"/C/Users/Sunny/Documents/Final Counting/New folder/traffic.py",
+		"/C/Users/Sunny/Documents/Final Counting/New folder/pipeline.py",
+		"/C/Users/Sunny/Documents/Final Counting/New folder/darkflow/net/flow.py",
+		"/C/Users/Sunny/Documents/Final Counting/New folder/classify.py",
+		"/C/Users/Sunny/Documents/Final Counting/New folder/darkflow/net/build.py",
+		"/C/Users/Sunny/Documents/Final Counting/data1.txt",
+		"/C/Users/Sunny/Documents/Final Counting/New folder/setup.py",
+		"/C/Users/Sunny/Documents/Final Counting/New folder/flow",
+		"/C/Users/Sunny/Documents/VOCtrainval_11-May-2012 (1)/VOCdevkit/VOC2012/JPEGImages/Annotations/motorbike_train.txt",
+		"/C/Users/Sunny/Documents/VOCtrainval_11-May-2012 (1)/VOCdevkit/VOC2012/ImageSets/Main/bus_val.txt",
+		"/C/Users/Sunny/Documents/VOCtrainval_11-May-2012 (1)/VOCdevkit/VOC2012/ImageSets/Main/bus_trainval.txt",
+		"/C/Users/Sunny/Documents/VOCtrainval_11-May-2012 (1)/VOCdevkit/VOC2012/ImageSets/Main/bus_train.txt",
+		"/C/Users/Sunny/Documents/VOCtrainval_11-May-2012 (1)/VOCdevkit/VOC2012/ImageSets/Main/bicycle_train.txt",
+		"/C/Users/Sunny/Documents/VOCtrainval_11-May-2012 (1)/VOCdevkit/VOC2012/ImageSets/Main/person_trainval.txt",
+		"/C/Users/Sunny/Documents/VOCtrainval_11-May-2012 (1)/VOCdevkit/VOC2012/ImageSets/Main/person_val.txt",
+		"/C/Users/Sunny/Documents/VOCtrainval_11-May-2012 (1)/VOCdevkit/VOC2012/ImageSets/Main/person_train.txt",
+		"/C/Users/Sunny/Documents/VOCtrainval_11-May-2012 (1)/VOCdevkit/VOC2012/JPEGImages/motorbike_train.txt",
+		"/C/Users/Sunny/Documents/VOCtrainval_11-May-2012 (1)/VOCdevkit/VOC2012/JPEGImages/get_annotaions.py",
+		"/C/Users/Sunny/Documents/VOCtrainval_11-May-2012 (1)/VOCdevkit/VOC2012/JPEGImages/Annotations/bus.txt",
+		"/C/Users/Sunny/Documents/VOCtrainval_11-May-2012 (1)/VOCdevkit/VOC2012/ImageSets/Main/bicycle_val.txt",
+		"/C/Users/Sunny/Documents/VOCtrainval_11-May-2012 (1)/VOCdevkit/VOC2012/ImageSets/Main/bicycle_trainval.txt"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "__init__.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
